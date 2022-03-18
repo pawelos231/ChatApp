@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Custom Chat app
 
 Projects contains custom app component using ChatEngine
