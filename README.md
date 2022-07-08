@@ -2,7 +2,7 @@
 
 Projects contains custom app component using ChatEngine
 
-Projekt zawierający customowy design chatu używając do tego moduły chatEngine, responsywny i szybko działający czat z podstawowym systemem logowania, stworzony za pomocą react.js
+Project conating custom styles for chat, with simple login panel, to future improvements
 ///
 
 
